@@ -1958,3 +1958,9 @@
 - Place: Visakhapatnam, Andhra Pradesh, India
 - Bio: Undergrad student
 - GitHub: [Aditya Ashvin](https://github.com/AdityaAshvin)
+
+#### Name: [Bella Abdelouahab](https://github.com/bellaabdelouahab)
+
+-Place: Essaouira, Morocoo
+-Bio: Computer Science graduated
+-Github: [bellaabdelouahab](https://github.com/bellaabdelouahab)
